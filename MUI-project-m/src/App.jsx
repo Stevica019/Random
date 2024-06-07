@@ -17,7 +17,6 @@ function App() {
     <CTA2/>
     <BetterCards/>
     <Footer/>
-    <MuiNavbar/>
     </>
   )
 }
